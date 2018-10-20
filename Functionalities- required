@@ -1,0 +1,14 @@
+File Structure :
+    Have fixed hardcoded admin login id and password
+    User                  ==== user_id , password, user_name
+    book                  ==== book-id , book_name
+    user_issued_book      ==== user_id ,book_id , issue_date , submit_date
+    
+Functionalities:
+    Add User
+    Add book
+    Rent BOok( Can only rent those which are not booked for that period)
+    Also generate reports for :
+      --- All books issued from library 
+      --- per student total no of books issued
+  
