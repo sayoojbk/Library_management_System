@@ -1,0 +1,22 @@
+carousel
+
+PROBLEM:
+
+
+Manual Segmentation as we know takes
+practical hours which may be crucial in
+some cases where fast diagnosis is 
+required and our company's tech 
+can provide the basis for fast diagnosis
+and help in this process.
+
+Manual segmentation of Retinal images
+makes use of certain types of dyes 
+which is scientifically proven to be
+harmful which aren't required in 
+our segmetation process.
+ 
+
+ SOLUTION:
+
+A portal for doctors and MRI imaging centers which allow imaging centers to upload the MRI images and our application will provide the analysis of the MRI scans directly to the doctor. And a database and progress of the treatment can be recorded without much hassle.
